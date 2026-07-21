@@ -15,7 +15,7 @@ class Solution {
                 nums[i]=nums[i]/10;
             }
         }
-        int dif=esum-dsum;
-        return dif;
+        int diff=esum-dsum;
+        return diff;
     }
 }
