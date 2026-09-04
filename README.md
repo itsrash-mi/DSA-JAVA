@@ -1,3 +1,3 @@
 # DSA-1
-First 102 questions
+First SET questions
 Trying to maintain consistency i guess.....
