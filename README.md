@@ -1,2 +1,3 @@
-# DSA-JAVA
+# DSA-1
+First 102 questions
 Trying to maintain consistency i guess.....
